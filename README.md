@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/HSBCycleScrollView.svg?style=flat)](https://cocoapods.org/pods/HSBCycleScrollView)
 [![Platform](https://img.shields.io/cocoapods/p/HSBCycleScrollView.svg?style=flat)](https://cocoapods.org/pods/HSBCycleScrollView)
 
+# 项目参考ZKCycleScrollView，在此基础上有部分修改，写这个完全用于个人学习
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
