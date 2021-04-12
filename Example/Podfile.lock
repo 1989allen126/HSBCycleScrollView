@@ -1,0 +1,34 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Kiwi (3.0.0)
+  - Masonry (1.1.0)
+  - SDWebImage (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+  - SDWebImage/Core (5.11.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Kiwi
+  - Masonry
+  - SDWebImage (>= 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - Kiwi
+    - Masonry
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 7acbb57630ac7db4a495547fb73916ff3e432f6b
+
+PODFILE CHECKSUM: 43ef4d1499733973ea565704ef34ea721b25d834
+
+COCOAPODS: 1.10.1
